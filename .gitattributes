@@ -1,3 +1,5 @@
 hc filter=lfs diff=lfs merge=lfs -text
 hp filter=lfs diff=lfs merge=lfs -text
 waveform.py filter=lfs diff=lfs merge=lfs -text
+hc.zip filter=lfs diff=lfs merge=lfs -text
+hp.zip filter=lfs diff=lfs merge=lfs -text
