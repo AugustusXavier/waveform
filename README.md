@@ -1,2 +1,3 @@
 # waveform
-利用pycbc生成并保存引力波，代码在master那个branch里面
+利用pycbc生成并保存引力波，代码在master的branch里面
+利用之前的代码生成拍频引力波，并用CNN将其进行二分类
